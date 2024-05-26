@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botCity/__init__.py
+botCity/__main__.py
+botCity/bot.py
+botCity.egg-info/PKG-INFO
+botCity.egg-info/SOURCES.txt
+botCity.egg-info/dependency_links.txt
+botCity.egg-info/requires.txt
+botCity.egg-info/top_level.txt
+botCity/resources/start.png
